@@ -1,0 +1,12 @@
+{
+  name: 'jquery',
+  description: 'jQuery: The Write Less, Do More, JavaScript Library (packaged for Node.JS)',
+  versions: [ 
+    '1.7.2'
+  ],
+  author: 'John Resig <jeresig@gmail.com>',
+  url: 'http://jquery.com',
+  keywords: [ 'util', 'dom', 'jquery' ],
+  lib: '.',
+  main: './jquery'
+}
